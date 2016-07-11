@@ -80,12 +80,12 @@ hi Include      guifg=red       gui=none
 hi Error        guifg=white     guibg=red	    gui=none
 hi Todo         guifg=#4e8dc2   guibg=yellow    gui=none
 hi Search       guifg=#1e1e1e   guibg=#ffbc29   gui=none
-hi SpecialKey	guifg=#1060a0   guibg=#1e1e1e
+hi SpecialKey   guifg=#7C0A02   guibg=#1e1e1e
 hi Special      guifg=#FF2373   guibg=#1e1e1e
 
 " Diff
-hi DiffChange   guifg=NONE      guibg=#e0e0e0   gui=bold
-hi DiffText     guifg=NONE      guibg=#f0c8c8   gui=bold
-hi DiffAdd      guifg=NONE      guibg=#c0e0d0   gui=bold
-hi DiffDelete   guifg=NONE      guibg=#f0e0b0   gui=bold
+hi DiffChange   guifg=NONE      guibg=#384048   gui=bold
+hi DiffText     guifg=NONE      guibg=#2B5B77   gui=bold
+hi DiffAdd      guifg=NONE      guibg=#004225   gui=bold
+hi DiffDelete   guifg=#7C0A02   guibg=#7C0A02   gui=bold
 
